@@ -1,6 +1,4 @@
-# messenger_redesign
-
-A new Flutter project.
+# Flutter Firebase Auth Boilerplate
 
 ## Getting Started
 
